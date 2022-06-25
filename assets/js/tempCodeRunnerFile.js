@@ -1,0 +1,1 @@
+weatherCard.innerHTML = weatherCardInnerHTML;
